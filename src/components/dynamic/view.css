@@ -1,0 +1,19 @@
+.table{
+    width:5%;
+    margin-left:15%;
+    margin-top:7%;
+    margin-right:25%;
+    text-align: justify;
+}
+
+
+.trash{
+    height:500px;
+    width:700px;
+    background-color: lavender;
+}
+
+.addskills{
+    margin-left :7%;
+    margin-top:5%;
+}

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300&display=swap');
+
+.split{
+    margin:0% auto;
+    width:90%;
+    margin-top:10%;
+    padding:3% 0%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+}
+.vigimg{
+height:auto;
+width:40%;
+}
+
+.helloname{
+    margin-top:3.7%;
+height:auto;
+width:40%;
+text-align:justify;
+}
+
+.vigneshimage{
+
+    height:50vh;
+    width:100%;
+    border-radius: 10%;
+    box-shadow:500px solid grey;
+    transition:transform 0.3s;
+}
+
+.vigneshimage:hover{
+    transform:scale(1.2);
+}
+
+
+.namecolor{
+    color:goldenrod;
+}
+
+.front{
+    color:brown;
+}
+
+.hcl{
+    color:blue;
+}

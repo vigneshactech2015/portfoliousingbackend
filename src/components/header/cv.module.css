@@ -1,0 +1,16 @@
+.cvbutton{
+    background-color:rgb(25, 135, 84) ;
+    margin-left:2%;
+    padding:2%;
+    text-decoration: none;
+    color:white;
+    border-radius: 10%;
+    transition: transform 0.3s;
+}
+
+.cvbutton:hover{
+    transform:scale(1.2);
+    color:black;
+    
+}
+

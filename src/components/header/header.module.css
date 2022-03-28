@@ -1,0 +1,31 @@
+.headername{
+    background-color:rgba(75,0,130,0.5);
+    position: fixed;
+    top:0;
+    border-radius: 80px;
+    height:50px;
+     width:40%;
+     font-weight:700;
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:30%;
+  margin-top:1%;
+}
+
+
+
+.welcome{
+    margin-left:70px;
+}
+
+.align{
+    margin-top:2%;
+    color:white;
+    text-decoration: none;
+    transition:transform 0.3s;
+}
+
+.align:hover{
+    transform:scale(1.2);
+    color:lightskyblue;
+}

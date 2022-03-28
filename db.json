@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "id": 4,
+      "name": "React"
+    },
+    {
+      "name": "CSS",
+      "id": 7
+    },
+    {
+      "name": "Pankaj",
+      "id": 9
+    }
+  ]
+}

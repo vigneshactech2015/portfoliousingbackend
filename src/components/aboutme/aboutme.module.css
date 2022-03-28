@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300&display=swap');
+.about{
+    margin:0% auto;
+    margin-top:10%;
+    width:90%;
+    padding:3% 0%;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.para{
+    margin-right:10%;
+    margin-left:10%;
+    margin-top:5%;
+    line-height:1.6;  
+    font-size: 20px;  
+    word-spacing: 10px;
+    text-align: justify;
+    color:darkslateblue;
+}
+
+
+.name{
+    color:darkblue;
+    font-size:32px;
+}
